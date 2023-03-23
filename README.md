@@ -1,5 +1,5 @@
-# Flask-DALLE-linebot-Railway
-# 一個使用Flask框架和DALLE模型官方API，創造一個linebot，快速建置於平台Railway。
+# Flask-DALLE-TelegramBot-Railway
+# 一個使用Flask框架和DALLE模型官方API，創造一個TelegramBot，快速建置於平台Railway。
 
 
 <div align="center">
@@ -25,7 +25,7 @@
   <img src="demo/link.png" width="700"/>
 </div>
 
-## [LineBot Django Vercel GPT3版本部署](https://github.com/pyfbsdk59/Django-ChatGPT-linebot-Vercel)
+## [TelegramBot Django Vercel GPT3版本部署](https://github.com/pyfbsdk59/Django-ChatGPT-TelegramBot-Vercel)
 
 <div align="center">
   <img src="demo/link2.png" width="700"/>
@@ -41,14 +41,14 @@
   <img src="demo/link3a.png" width="600"/>
 </div>
 
-## [LineBot Golang Render GPT3版本部署](https://github.com/pyfbsdk59/Golang-ChatGPT-linebot-Render)
+## [TelegramBot Golang Render GPT3版本部署](https://github.com/pyfbsdk59/Golang-ChatGPT-TelegramBot-Render)
 
 <div align="center">
   <img src="demo/link4.png" width="700"/>
 </div>
 
-### [English](https://github.com/pyfbsdk59/Flask-DALLE-linebot-Railway/blob/main/README_en.md)
-### [日本語](https://github.com/pyfbsdk59/Flask-DALLE-linebot-Railway/blob/main/README_jp.md)
+### [English](https://github.com/pyfbsdk59/Flask-DALLE-TelegramBot-Railway/blob/main/README_en.md)
+### [日本語](https://github.com/pyfbsdk59/Flask-DALLE-TelegramBot-Railway/blob/main/README_jp.md)
 
 
 
@@ -99,4 +99,4 @@ https://www.youtube.com/watch?v=eKKEa6NhCd0
 </div>
 
 ------
-### Line和openai api設置請參考： https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel
+### Line和openai api設置請參考： https://github.com/howarder3/GPT-TelegramBot-python-flask-on-vercel
